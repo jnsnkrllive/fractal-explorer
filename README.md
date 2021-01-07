@@ -9,9 +9,12 @@ TODO
 
 ## Quick Start
 
-Download and install [Gradle](https://gradle.org/install/)
+This project uses [Gradle](https://gradle.org/)
 
-`gradlew build`
+To build, execute the command:
+```
+gradlew build
+```
 
 ## License
 
